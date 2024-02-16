@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/@sosthene_timi" target="blank"><img src="https://img.shields.io/twitter/follow/@sosthene_timi?logo=twitter&style=for-the-badge" alt="@sosthene_timi" /></a> </p>
 
-- 🔭 I’m currently working on [jsphere](https://github.com/T-sosthenese/jsphere)
+- 🔭 I’m currently working on [hotel-booking-app](https://github.com/T-sosthenese/hotel-booking-app)
 
 - 🌱 I’m currently learning **Python, Django, and JavaScript**
 
