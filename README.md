@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Python, Django, and JavaScript**
 
-- 💬 Ask me about **python, django, MySQL**
+- 💬 Ask me about **MongoDB, Express, React, Node, python, django, MySQL**
 
 - 📫 How to reach me **sosthenetmi94@gmail.com**
 
-- ⚡ Fun fact **"Did you know that the name 'Django' for the web framework is inspired by the famous jazz guitarist Django Reinhardt? Just as Reinhardt revolutionized jazz with his unique style, Django for Python has been a pioneering force in web development, making it smooth and enjoyable. Just like jazz, where every musician brings their own flair, Django allows developers to bring their creativity to the world of web applications. Let's code with the rhythm of Django!"**
+- ⚡ Fun fact **"Did you know that MongoDB gets its name from the word 'humongous'? It's a play on words highlighting the database's ability to handle enormous amounts of data. MongoDB was designed to be scalable and flexible, making it a popular choice for modern web applications alongside technologies like Express, React, Node.js, and Python with Django"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
